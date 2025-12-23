@@ -1,1 +1,0 @@
-# CICD_demo_nginx
